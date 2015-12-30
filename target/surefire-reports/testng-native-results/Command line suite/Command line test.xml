@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="ISHWS43" name="com.orgMaven.myMaven.HelloWorldTest" tests="2" failures="0" timestamp="24 Dec 2015 05:19:24 GMT" time="10.653" errors="0">
+  <testcase name="Login" time="2.118" classname="com.orgMaven.myMaven.HelloWorldTest"/>
+  <testcase name="ScrollPageDown" time="2.61" classname="com.orgMaven.myMaven.HelloWorldTest"/>
+</testsuite>

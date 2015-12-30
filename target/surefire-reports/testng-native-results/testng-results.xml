@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="10653" started-at="2015-12-24T10:49:14Z" finished-at="2015-12-24T10:49:24Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="10653" started-at="2015-12-24T10:49:14Z" finished-at="2015-12-24T10:49:24Z">
+      <class name="com.orgMaven.myMaven.HelloWorldTest">
+        <test-method status="PASS" signature="beforeTest()" name="beforeTest" is-config="true" duration-ms="5813" started-at="2015-12-24T10:49:14Z" finished-at="2015-12-24T10:49:19Z">
+        </test-method>
+        <test-method status="PASS" signature="Login()" name="Login" duration-ms="2118" started-at="2015-12-24T10:49:19Z" finished-at="2015-12-24T10:49:21Z">
+        </test-method>
+        <test-method status="PASS" signature="ScrollPageDown()" name="ScrollPageDown" duration-ms="2610" started-at="2015-12-24T10:49:21Z" finished-at="2015-12-24T10:49:24Z">
+        </test-method>
+        <test-method status="PASS" signature="afterTest()" name="afterTest" is-config="true" duration-ms="107" started-at="2015-12-24T10:49:24Z" finished-at="2015-12-24T10:49:24Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
